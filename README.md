@@ -1,0 +1,1 @@
+A product store project on Spring Boot is a great way to learn how to build a web application. In this project, you can create a simple e-commerce application that allows users to add and remove products from a product list
